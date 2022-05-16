@@ -1,0 +1,4 @@
+﻿  lab2.1.cpp
+D:\AIC\lab2.1\lab2.1\lab2.1.cpp(192,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\AIC\lab2.1\lab2.1\lab2.1.cpp(192,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lab2.1.vcxproj -> D:\AIC\lab2.1\x64\Debug\lab2.1.exe

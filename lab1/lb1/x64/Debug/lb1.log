@@ -1,0 +1,4 @@
+﻿  lb1.cpp
+D:\AIC\lb1\lb1\lb1.cpp(50,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\AIC\lb1\lb1\lb1.cpp(121,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lb1.vcxproj -> D:\AIC\lb1\x64\Debug\lb1.exe
